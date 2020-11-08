@@ -1,17 +1,2 @@
-﻿  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\BasicPixelShader.cso
-  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\BasicVertexShader.cso
-  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\SpritePixelShader.cso
-  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\SpriteVertexShader.cso
-  Audio.cpp
-  Ball.cpp
-  DebugText.cpp
-  DirectXCommon.cpp
-  GameScene.cpp
-  Input.cpp
-  main.cpp
-  Object3d.cpp
-  Object3d2.cpp
-  Sprite.cpp
-  WinApp.cpp
-  コードを生成中...
+﻿  main.cpp
   DirectXGame.vcxproj -> C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\DirectXGame.exe
