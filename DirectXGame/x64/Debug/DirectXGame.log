@@ -1,7 +1,7 @@
-﻿  compilation object save succeeded; see C:\Users\K018A1704\Desktop\3年度 授業フォルダ\後期\TD4\x64\Debug\BasicPixelShader.cso
-  compilation object save succeeded; see C:\Users\K018A1704\Desktop\3年度 授業フォルダ\後期\TD4\x64\Debug\BasicVertexShader.cso
-  compilation object save succeeded; see C:\Users\K018A1704\Desktop\3年度 授業フォルダ\後期\TD4\x64\Debug\SpritePixelShader.cso
-  compilation object save succeeded; see C:\Users\K018A1704\Desktop\3年度 授業フォルダ\後期\TD4\x64\Debug\SpriteVertexShader.cso
+﻿  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\BasicPixelShader.cso
+  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\BasicVertexShader.cso
+  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\SpritePixelShader.cso
+  compilation object save succeeded; see C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\SpriteVertexShader.cso
   Audio.cpp
   Ball.cpp
   DebugText.cpp
@@ -14,4 +14,4 @@
   Sprite.cpp
   WinApp.cpp
   コードを生成中...
-  DirectXGame.vcxproj -> C:\Users\K018A1704\Desktop\3年度 授業フォルダ\後期\TD4\x64\Debug\DirectXGame.exe
+  DirectXGame.vcxproj -> C:\Users\K018A1484\Desktop\NEWWWWWWWWGAAAME\x64\Debug\DirectXGame.exe
