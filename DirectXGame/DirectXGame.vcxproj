@@ -91,7 +91,9 @@
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Object3d.cpp" />
     <ClCompile Include="Object3d2.cpp" />
+    <ClCompile Include="SceneManager.cpp" />
     <ClCompile Include="Sprite.cpp" />
+    <ClCompile Include="TitleScene.cpp" />
     <ClCompile Include="WinApp.cpp" />
   </ItemGroup>
   <ItemGroup>
@@ -146,6 +148,7 @@
   <ItemGroup>
     <ClInclude Include="Audio.h" />
     <ClInclude Include="Ball.h" />
+    <ClInclude Include="BaseScene.h" />
     <ClInclude Include="DebugText.h" />
     <ClInclude Include="DirectXCommon.h" />
     <ClInclude Include="GameScene.h" />
@@ -153,7 +156,9 @@
     <ClInclude Include="Object3d.h" />
     <ClInclude Include="Object3d2.h" />
     <ClInclude Include="SafeDelete.h" />
+    <ClInclude Include="SceneManager.h" />
     <ClInclude Include="Sprite.h" />
+    <ClInclude Include="TitleScene.h" />
     <ClInclude Include="WinApp.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

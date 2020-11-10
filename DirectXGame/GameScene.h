@@ -9,12 +9,13 @@
 #include "Object3d2.h"
 #include "DebugText.h"
 #include "Audio.h"
+#include "BaseScene.h"
 #include "Ball.h"
 
 /// <summary>
 /// ゲームシーン
 /// </summary>
-class GameScene
+class GameScene:public BaseScene
 {
 private: // エイリアス
 	// Microsoft::WRL::を省略
@@ -48,12 +49,12 @@ public: // メンバ関数
 	/// <summary>
 	/// 毎フレーム処理
 	/// </summary>
-	void Update();
+	virtual void Update();
 
 	/// <summary>
 	/// 描画
 	/// </summary>
-	void Draw();
+	virtual void Draw();
 
 private: // メンバ変数
 	DirectXCommon* dxCommon = nullptr;
