@@ -38,7 +38,7 @@ void GameScene::Initialize(DirectXCommon* dxCommon, Input* input, Audio * audio)
 	debugText.Initialize(debugTextTexNumber);
 
 	// テクスチャ読み込み
-	if (!Sprite::LoadTexture(1, L"Resources/backGroundSky.png")) {
+	if (!Sprite::LoadTexture(1, L"Resources/back.png")) {
 		assert(0);
 		return;
 	}
